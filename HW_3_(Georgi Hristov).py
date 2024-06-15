@@ -54,3 +54,5 @@ w0, w = perceptron(x_train, y_train, 10000)
 y_pred = perceptron_predict(x_test, w, w0)
 
 mc.makePlotPerc_final(x_train, x_test, y_train, y_pred, w, w0, 4, 8)
+
+#test
